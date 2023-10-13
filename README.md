@@ -23,5 +23,5 @@ Este é um projeto simples de gerador de senhas em JavaScript, criado como uma f
 ## Como usar?
 - Os usuários podem acessar a calculadora diretamente no navegador.
 
-## Link do Repositório no GitHub:
+## Link do Projeto:
 
