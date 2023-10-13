@@ -1,0 +1,73 @@
+@media (min-width: 300px) and (max-width: 600px) {
+
+    .container {
+        width: 300px;
+        height: 420px;
+
+    }
+
+    .saida {
+        font-size: 26px;
+        width: 260px;
+        padding: 10px;
+    }
+
+    .container-input {
+        max-width: 200px;
+        margin: 14px;
+    }
+
+    .container-input span {
+        color: #fff;
+        font-size: 22px;
+    }
+
+    .password {
+        height: 40px;
+        width: 230px;
+    }
+
+    .container-input span {
+        font-size: 21px;
+    }
+
+    .tooltip {
+        width: 250px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1100px) {
+
+    .container {
+        width: 500px;
+        height: 460px;
+    }
+
+    .saida {
+        font-size: 42px;
+        width: 400px;
+        padding: 15px;
+    }
+
+    .container-input {
+        max-width: 400px;
+        margin: 14px;
+    }
+
+    .container-input span {
+        font-size: 32px;
+    }
+
+    .password {
+        height: 40px;
+        width: 380px;
+    }
+
+    .container-input span {
+        font-size: 21px;
+    }
+
+    .tooltip {
+        width: 400px;
+    }
+}
