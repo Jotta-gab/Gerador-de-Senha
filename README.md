@@ -24,4 +24,5 @@ Este é um projeto simples de gerador de senhas em JavaScript, criado como uma f
 - Os usuários podem acessar a calculadora diretamente no navegador.
 
 ## Link do Projeto:
+https://jotta-gab.github.io/Gerador-de-Senha/
 
